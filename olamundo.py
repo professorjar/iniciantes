@@ -1,4 +1,4 @@
-#('Professor Alberto programa v.0.0.1 15/03/2021 cls 01olamundo.py')
+#('Professor  Alberto programa v.0.0.1 15/03/2021 cls 01olamundo.py')
 print('\n'*2)
 print('*'*40)
 print('\n'*1)
