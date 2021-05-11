@@ -6,3 +6,4 @@ Projeto Tecer
 3)	Gerenciamento de projetos (Gerar Trabalho e Renda) curso gerenciamento de projetos.
 4)	Novas ideias – Filosofia do trabalho.
 5)	Em primeiro lugar o nosso próximo e depois o lucro.
+10/05/2021
